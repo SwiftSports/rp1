@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>デモ1</title>
+
+  <style>
+    #message {
+      width: 300px;
+      text-align: center;
+      padding: 50px 0;
+      background-color: #ff8585;
+    }
+  </style>
+  <!-- ココ -->
+  <script src="jquery-2.2.1.min.js"></script>
+</head>
+<body>
+  <p id="message">スクー</p>
+
+  <!-- ココ -->
+  <script>
+  $('#message').html('生放送');
+  $('#message').fadeOut();
+  </script>
+</body>
+</html>
