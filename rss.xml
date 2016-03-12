@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>H2O BLOG</title>
+	<atom:link href="http://blog.h2o-space.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://blog.h2o-space.com</link>
+	<description>H2O SPACE たにぐち まこと のブログ</description>
+	<lastBuildDate>Wed, 18 Mar 2015 00:53:27 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.1</generator>
+	<item>
+		<title>Bootstrap Studio</title>
+		<link>http://blog.h2o-space.com/2015/03/640/</link>
+		<comments>http://blog.h2o-space.com/2015/03/640/#comments</comments>
+		<pubDate>Mon, 16 Mar 2015 23:32:25 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[メモ]]></category>
+		<category><![CDATA[bootstrap]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=640</guid>
+		<description><![CDATA[<p>Bootstrapのデザインツール。Web上のサービスが多い昨今ですが、こちらのツールは Windows/Mac/Linux向けのデスクトップアプリケーションとしてリリースされるようです。 2015年 3月リリース予定で &#8230; <a href="http://blog.h2o-space.com/2015/03/640/" class="more-link">続きを読む <span class="screen-reader-text">Bootstrap Studio</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/640/">Bootstrap Studio</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Bootstrapのデザインツール。Web上のサービスが多い昨今ですが、こちらのツールは Windows/Mac/Linux向けのデスクトップアプリケーションとしてリリースされるようです。</p>
+<p>2015年 3月リリース予定で、現在メールニュース購読者を募集しています。</p>
+<ul>
+<li><a href='http://tutorialzine.com/bootstrapstudio/#details'>Bootstrap Studio</a>.</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/640/">Bootstrap Studio</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/03/640/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Miracastの接続がうまくいかない原因はファイアーウォールかも</title>
+		<link>http://blog.h2o-space.com/2015/03/636/</link>
+		<comments>http://blog.h2o-space.com/2015/03/636/#comments</comments>
+		<pubDate>Mon, 16 Mar 2015 00:44:13 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[ブログ]]></category>
+		<category><![CDATA[surface]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=636</guid>
+		<description><![CDATA[<p>Surface Pro 3は、Miracastに対応していて、HDMI機器へのリモートディスプレイが可能です。 先日、Microsoftから純正の「Microsoft Wireless Display Adapter」が &#8230; <a href="http://blog.h2o-space.com/2015/03/636/" class="more-link">続きを読む <span class="screen-reader-text">Miracastの接続がうまくいかない原因はファイアーウォールかも</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/636/">Miracastの接続がうまくいかない原因はファイアーウォールかも</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Surface Pro 3は、Miracastに対応していて、HDMI機器へのリモートディスプレイが可能です。</p>
+<p>先日、Microsoftから純正の「Microsoft Wireless Display Adapter」が発売されています。</p>
+<p><iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&#038;bc1=000000&#038;IS2=1&#038;bg1=FFFFFF&#038;fc1=000000&#038;lc1=0000FF&#038;t=h2ospacelim09-22&#038;o=9&#038;p=8&#038;l=as4&#038;m=amazon&#038;f=ifr&#038;ref=ss_til&#038;asins=B00S7ZNWAK" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></p>
+<p>筆者も早速購入して試してみたのですが、どうにもこうにもうまくいかない。で、試行錯誤していたらファイアーウォールが原因でした。</p>
+<p><span id="more-636"></span></p>
+<p>Windows Updateをかけて最新版にし、手順に従ってリモートディスプレイを追加まではできるのですが、それを接続しようとすると、しばらくトライをした後タイムアウトのような感じで、「接続できませんでした」となってしまいます。</p>
+<p>再起動をしたり、抜き差しをしたりなどをしても、一向に接続できず、検索を続けていたら以下を見つけました。</p>
+<ul>
+<li><a href="http://answers.microsoft.com/en-us/surface/forum/surfpro3-surfdevice/microsoft-wireless-display-adapter-not-connecting/cd56642b-85f4-410a-8934-b1283ccc04a5">Microsoft wireless display adapter not connecting to Surface Pro 3 &#8211; Microsoft Community</a></li>
+</ul>
+<blockquote><p>
+  Found the issue in my firewall, just need to figure out now how to apply a rule
+</p></blockquote>
+<p>これはと思い、利用している ESETセキュリティのファイアーウォールを一時的に停止したところ、確かに接続できました。</p>
+<p>ということで、ファイアーウォールが働いていると Miracastが接続できなかったのですね。盲点でした。。</p>
+<p>それで、ファイアーウォールを無効にしたままでは安全性に問題があるので、この Miracastのポートだけ許可したいのですが、この情報がまた見つかりません。なので、今は「手動モード」で運用をしています。もう少しスマートな解決方法が分かったら、追記したいと思います。</p>
+<ul>
+<li><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3202189&#038;pid=883360994" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3202189&#038;pid=883360994" height="1" width="1" border="0">Wireless Display Adapter (ワイヤレス ディスプレイ アダプター)</a></li>
+</ul>
+<p><iframe frameborder="0" allowtransparency="true" height="60" width="468" marginheight="0" scrolling="no" src="http://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=3202189&#038;pid=883360998" marginwidth="0"><script language="javascript" src="http://ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3202189&#038;pid=883360998"></script><noscript><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3202189&#038;pid=883360998" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3202189&#038;pid=883360998" height="60" width="468" border="0"></a></noscript></iframe></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/636/">Miracastの接続がうまくいかない原因はファイアーウォールかも</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/03/636/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Atom Flight Manual</title>
+		<link>http://blog.h2o-space.com/2015/03/633/</link>
+		<comments>http://blog.h2o-space.com/2015/03/633/#comments</comments>
+		<pubDate>Sun, 15 Mar 2015 00:42:32 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[メモ]]></category>
+		<category><![CDATA[atom]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=633</guid>
+		<description><![CDATA[<p>Atom Flight Manual GitHub製テキストエディター 『Atom』のオフィシャルマニュアル（英語）。 HTMLで読めるほか、epubや Kindle方式でダウンロードすることもできます。内容は、まだこれ &#8230; <a href="http://blog.h2o-space.com/2015/03/633/" class="more-link">続きを読む <span class="screen-reader-text">Atom Flight Manual</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/633/">Atom Flight Manual</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<ul>
+<li><a href="https://atom.io/docs/v0.187.0/">Atom Flight Manual</a></li>
+</ul>
+<p>GitHub製テキストエディター 『Atom』のオフィシャルマニュアル（英語）。</p>
+<p>HTMLで読めるほか、epubや Kindle方式でダウンロードすることもできます。内容は、まだこれから拡充されていくとか。</p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/633/">Atom Flight Manual</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/03/633/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>大学生に Surface Proをすすめる理由 という取材を受けました</title>
+		<link>http://blog.h2o-space.com/2015/03/629/</link>
+		<comments>http://blog.h2o-space.com/2015/03/629/#comments</comments>
+		<pubDate>Fri, 13 Mar 2015 23:05:54 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[ブログ]]></category>
+		<category><![CDATA[surface]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=629</guid>
+		<description><![CDATA[<p>Facebookであまりに「Surface最高！」と叫び続けているものだから、『マイナビ学生の窓口』さんからお声がけいただいて、Microsoftの広告記事にインタビューを頂きました。 広告記事なので、当然ながら私の話が &#8230; <a href="http://blog.h2o-space.com/2015/03/629/" class="more-link">続きを読む <span class="screen-reader-text">大学生に Surface Proをすすめる理由 という取材を受けました</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/629/">大学生に Surface Proをすすめる理由 という取材を受けました</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img src="http://blog.h2o-space.com/wp-content/uploads/2015/03/2015-03-14_7-45-49-300x169.png" alt="マイナビ学生の窓口" width="300" height="169" class="aligncenter size-medium wp-image-630" /></p>
+<p>Facebookであまりに「Surface最高！」と叫び続けているものだから、『マイナビ学生の窓口』さんからお声がけいただいて、Microsoftの広告記事にインタビューを頂きました。</p>
+<p><span id="more-629"></span></p>
+<p>広告記事なので、当然ながら私の話が数倍に膨らんで、「おすすめ」感が出てはいるのですが、とはいえ大学生が最初に買うノートパソコンと考えたときに、Surfaceは確かにおすすめかなと考えます。</p>
+<p>特に、私のようにがっつり「いわゆる」PCに慣れしたんだ、キーボードがないとね！　みたいな人が Surfaceに慣れるのはなかなか大変ですが、そもそもタッチパネルの方が慣れている若い人たちに取って、キーボードはいざという時のおまけ程度の存在で良いだろうと思います。</p>
+<p>では、iPadや Androidタブレットで良いのではないか？　と思うかも知れないが、そこはやはり中途半端。筆者自身も、iPad/Androidで全業務が完結できるかをトライしたことがありますが、文書制作や制作・開発にはあまりにも力不足。1画面内に複数のウィンドウなどを立ち上げることもできない端末が多いので（一部できる Androidもありますが）、正直使い物になりません。</p>
+<p>そんな中、Surfaceはいざという時は PCスタイルにもなるので、レポート制作だったりコンピュータ自体の学習などにも利用できるかなと思います。</p>
+<p>今や、3-4万で PCが買えてしまう時代ではありますが、あんまり画面の小さなマシンや、バッテリーが持たないマシン、キーボードが押しにくいPCなどを買ってしまうと、結局文書制作にも中途半端…　といった事になりかねないので、ここは思い切って10万のマシンを買ってみても良いかなと思います。</p>
+<p>頑張れ、大学生！</p>
+<ul>
+<li><a href="https://gakumado.mynavi.jp/gmd/articles/865">キャンパスライフにぴったり！ プロがすすめる「大学生のためのノートPC」って？ | 大学生のデジタルライフ | 大学生活 | マイナビ 学生の窓口</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/629/">大学生に Surface Proをすすめる理由 という取材を受けました</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/03/629/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>書評：Evernote仕事術</title>
+		<link>http://blog.h2o-space.com/2015/03/624/</link>
+		<comments>http://blog.h2o-space.com/2015/03/624/#comments</comments>
+		<pubDate>Fri, 13 Mar 2015 00:03:37 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[書評]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=624</guid>
+		<description><![CDATA[<p>Evernoteの使い方に、いまだに決定打が見つからず、試行錯誤を繰り返しています。 何を残して、どう分類するべきか、ベストな答えがないのであちこち試す日々が続いています。 Evernoteの入門書・活用書は数々出ていま &#8230; <a href="http://blog.h2o-space.com/2015/03/624/" class="more-link">続きを読む <span class="screen-reader-text">書評：Evernote仕事術</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/624/">書評：Evernote仕事術</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.amazon.co.jp/Evernote%E4%BB%95%E4%BA%8B%E8%A1%93-%E4%BD%90%E3%80%85%E6%9C%A8-%E6%AD%A3%E6%82%9F/dp/4492045643%3FSubscriptionId%3DAKIAIS6HC37K35OT4MKQ%26tag%3Dtomostabook-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4492045643"><img src="http://ecx.images-amazon.com/images/I/61hZkFWn9tL._SL160_.jpg" width="90" alt="Evernote仕事術" class="alignleft" /></a></p>
+<p>Evernoteの使い方に、いまだに決定打が見つからず、試行錯誤を繰り返しています。<br />
+何を残して、どう分類するべきか、ベストな答えがないのであちこち試す日々が続いています。</p>
+<p>Evernoteの入門書・活用書は数々出ていますが、いずれも基本的な内容を押さえているだけだったり、「領収書もDMも、なんでも突っ込んでおきましょう！　といった、ノウハウとも言えない内容だったりで、役に立たないことが多かったのですが、この書籍は非常に参考になりました。<br />
+<span id="more-624"></span></p>
+<p>というのは、冒頭にある「達人の活用術」という章では、筆者の佐々木正悟氏が取材をした、さまざまな方の Evernoteの使い方をレポートしてくれています。また、所々に佐々木氏のコメントが入っていて、万人に勧められる使い方なのか、それともその人の仕事ならでは使い方なのかなども、考察してくれているため、そこからどうアレンジして自分に合った使い方にできるかなどを考えることができます。</p>
+<p>例えば、「ノートブックの作り方」にも各人の工夫が見られます。番号が付けられていたり、日付＋プロジェクト名となっていたり、スタックでの分類の仕方も、何を基準に分類するかなど、それぞれ工夫されていて面白いです。実際にその人の Evernoteの画面ショットが掲載されているため、雑多な感じや整理された感じなど、その人となりも見ることができる気がします。</p>
+<p>Evernoteの場合、本当に使い方は人それぞれであるため、誰かが「こうだよ」と教えるよりも、とにかくいろいろな人の知見を集めて、その中から自分に近い使い方をピックアップしていくのが良さそうに思いました。</p>
+<p>「入門書」というよりは、ノートが 1,000件を超えて整理がつかなくなった方向けの実用書といった位置づけですが、非常におすすめです。</p>
+<div class="tomosta-book-box" style="border: 1px solid #ccc; box-shadow: 2px 2px 3px #ddd; padding: 10px; text-align: center; width: 300px; background-color: #fff; margin-bottom: 1em; max-width: 100%">
+    <a href="http://www.amazon.co.jp/Evernote%E4%BB%95%E4%BA%8B%E8%A1%93-%E4%BD%90%E3%80%85%E6%9C%A8-%E6%AD%A3%E6%82%9F/dp/4492045643%3FSubscriptionId%3DAKIAIS6HC37K35OT4MKQ%26tag%3Dtomostabook-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4492045643" target="_blank"><img src="http://ecx.images-amazon.com/images/I/61hZkFWn9tL._SL160_.jpg" width="150" alt="Evernote仕事術" style="border: 1px solid #eee; display: block; margin: 0 auto;"></a></p>
+<p class="tomosta-book-title" style="font-weight: bold; margin: 0; text-align: left"><a href="http://www.amazon.co.jp/Evernote%E4%BB%95%E4%BA%8B%E8%A1%93-%E4%BD%90%E3%80%85%E6%9C%A8-%E6%AD%A3%E6%82%9F/dp/4492045643%3FSubscriptionId%3DAKIAIS6HC37K35OT4MKQ%26tag%3Dtomostabook-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4492045643" target="_blank">Evernote仕事術</a></p>
+<p style="margin: 0; text-align: left">佐々木 正悟 / 東洋経済新報社</p>
+<p style="margin: 0; text-align: left; font-size: 80%"><a href="http://book.tomosta.jp/item/tomostabook-22/4492045643">- 電子書籍を探す（ともすたブック検索）</a></p>
+</div>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/624/">書評：Evernote仕事術</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/03/624/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google Inboxの使用を再開</title>
+		<link>http://blog.h2o-space.com/2015/03/621/</link>
+		<comments>http://blog.h2o-space.com/2015/03/621/#comments</comments>
+		<pubDate>Mon, 09 Mar 2015 03:03:18 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[メモ]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=621</guid>
+		<description><![CDATA[<p>Google Inbox、一時使うのをやめていたのだが、また再開。Todoistとの連携ができないのがネックだったが、そこにこだわるのをやめてピンとリマインダーを使って、Todoistと両立することを目指してみる。 In &#8230; <a href="http://blog.h2o-space.com/2015/03/621/" class="more-link">続きを読む <span class="screen-reader-text">Google Inboxの使用を再開</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/621/">Google Inboxの使用を再開</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Google Inbox、一時使うのをやめていたのだが、また再開。Todoistとの連携ができないのがネックだったが、そこにこだわるのをやめてピンとリマインダーを使って、Todoistと両立することを目指してみる。</p>
+<p>Inboxの大きな特徴の1つが「未読数」がでなくなったこと。これまで、未読数の数字が気になって読む必要がない Backlogの通知メールとかもわざわざ開いて、数字を消していたのだが、もう気にしないことにして、えいっと Doneしてみている。</p>
+<p>プロモーショングループとかも、サブジェクトだけ眺めて、全部まとめてえいっと Done。</p>
+<p>「メールを処理する」という考え方をなくせば、もう少しうまくつきあえるかも。</p>
+<ul>
+<li><a href="https://inbox.google.com/">Inbox</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/03/621/">Google Inboxの使用を再開</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/03/621/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>書評：たった1日で即戦力になるExcelの教科書</title>
+		<link>http://blog.h2o-space.com/2015/02/617/</link>
+		<comments>http://blog.h2o-space.com/2015/02/617/#comments</comments>
+		<pubDate>Mon, 02 Feb 2015 01:03:17 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[書評]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=617</guid>
+		<description><![CDATA[<p>普段、なんとなく使ってしまっている Excelをしっかり理解したくて購入。 「1日で」というのは、良くも悪くも言い過ぎな感じの結構中身の濃い書籍。具体的な例を取り上げながら、各機能を紹介してくれるので、分かりやすく、実践 &#8230; <a href="http://blog.h2o-space.com/2015/02/617/" class="more-link">続きを読む <span class="screen-reader-text">書評：たった1日で即戦力になるExcelの教科書</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/02/617/">書評：たった1日で即戦力になるExcelの教科書</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.amazon.co.jp/%E3%81%9F%E3%81%A3%E3%81%9F1%E6%97%A5%E3%81%A7%E5%8D%B3%E6%88%A6%E5%8A%9B%E3%81%AB%E3%81%AA%E3%82%8BExcel%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E5%90%89%E7%94%B0-%E6%8B%B3/dp/4774168084%3FSubscriptionId%3DAKIAIS6HC37K35OT4MKQ%26tag%3Dtomostabook-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774168084"><img src="http://ecx.images-amazon.com/images/I/51TxmoPZChL._SL160_.jpg" width="90" alt="たった1日で即戦力になるExcelの教科書" class="aligncenter" /></a></p>
+<p>普段、なんとなく使ってしまっている Excelをしっかり理解したくて購入。</p>
+<p><span id="more-617"></span></p>
+<p>「1日で」というのは、良くも悪くも言い過ぎな感じの結構中身の濃い書籍。具体的な例を取り上げながら、各機能を紹介してくれるので、分かりやすく、実践にも投入しやそうなノウハウです。</p>
+<p>初心者向けというわけではないので、まずは Excelの基本的な機能を別の書籍などで理解した上で、細かい機能が分からないなりになんとなく使ってしまっているという方向け。</p>
+<p>ちょっと気になるのが、文章の書き方が常に「上から」な感じであえて、強い口調の言葉を使っている部分もあります。それを読んで、「わ、自分やばい」と危機感を持つ方もいるのかも知れませんが、筆者は少なくとも、あまりこの筆者のことを好きになれそうにありませんでした。</p>
+<p>内容が良いだけに、このあたりを割り切って読み進めていくと良いでしょう。</p>
+<div class="tomosta-book-box" style="border: 1px solid #ccc; box-shadow: 2px 2px 3px #ddd; padding: 10px; text-align: center; width: 300px; background-color: #fff; margin-bottom: 1em; max-width: 100%">
+    <a href="http://www.amazon.co.jp/%E3%81%9F%E3%81%A3%E3%81%9F1%E6%97%A5%E3%81%A7%E5%8D%B3%E6%88%A6%E5%8A%9B%E3%81%AB%E3%81%AA%E3%82%8BExcel%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E5%90%89%E7%94%B0-%E6%8B%B3/dp/4774168084%3FSubscriptionId%3DAKIAIS6HC37K35OT4MKQ%26tag%3Dtomostabook-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774168084" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51TxmoPZChL._SL160_.jpg" width="150" alt="たった1日で即戦力になるExcelの教科書" style="border: 1px solid #eee;" class="aligncenter"></a></p>
+<p class="tomosta-book-title" style="font-weight: bold; margin: 0; text-align: left"><a href="http://www.amazon.co.jp/%E3%81%9F%E3%81%A3%E3%81%9F1%E6%97%A5%E3%81%A7%E5%8D%B3%E6%88%A6%E5%8A%9B%E3%81%AB%E3%81%AA%E3%82%8BExcel%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E5%90%89%E7%94%B0-%E6%8B%B3/dp/4774168084%3FSubscriptionId%3DAKIAIS6HC37K35OT4MKQ%26tag%3Dtomostabook-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774168084" target="_blank">たった1日で即戦力になるExcelの教科書</a></p>
+<p style="margin: 0; text-align: left">吉田 拳 / 技術評論社</p>
+<p style="margin: 0; text-align: left; font-size: 80%"><a href="http://book.tomosta.jp/item/tomostabook-22/4774168084">- 電子書籍を探す（ともすたブック検索）</a></p>
+</div>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/02/617/">書評：たった1日で即戦力になるExcelの教科書</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/02/617/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WebDAVで 5MB以上のファイルをダウンロードする（Windows）</title>
+		<link>http://blog.h2o-space.com/2015/01/614/</link>
+		<comments>http://blog.h2o-space.com/2015/01/614/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 00:44:05 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[ブログ]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=614</guid>
+		<description><![CDATA[<p>Backlogのファイル共有機能などは、「WebDAV」というプロトコルを利用してエクスプローラーなどからも利用できるようになっています。 しかし、Windowsには 5MBまでという制限があるため、それ以上のファイルの &#8230; <a href="http://blog.h2o-space.com/2015/01/614/" class="more-link">続きを読む <span class="screen-reader-text">WebDAVで 5MB以上のファイルをダウンロードする（Windows）</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/01/614/">WebDAVで 5MB以上のファイルをダウンロードする（Windows）</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Backlogのファイル共有機能などは、「WebDAV」というプロトコルを利用してエクスプローラーなどからも利用できるようになっています。<br />
+しかし、Windowsには 5MBまでという制限があるため、それ以上のファイルのアップロード・ダウンロードができません。</p>
+<p>この制限を上げるには、レジストリーを編集します。（自己責任＆バックアップは確実にお願いします）<br />
+<span id="more-614"></span></p>
+<ul>
+<li>レジストリーエディターを起動します（ファイル名を指定して実行→regedit など）</li>
+<li>次のキーのサブキーを見つけます
+<p>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters</p>
+</li>
+<li>
+<p>右側のウィンドウで、FileSizeLimitInBytesの値を右クリックし、[変更] をクリックします。</p>
+</li>
+</ul>
+<p>ここにバイト単位で容量を指定します。あまりに大きいと、上限値に補正されます（4Gくらい？）</p>
+<p>これで、大きなサイズのファイルもダウンロードできるようになりました。</p>
+<ul>
+<li><a href="http://support2.microsoft.com/kb/900900/ja">Web フォルダーから 50000000 バイトより大きいファイルをダウンロードしようとすると、フォルダーのコピーのエラー メッセージが表示されます。</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/01/614/">WebDAVで 5MB以上のファイルをダウンロードする（Windows）</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/01/614/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Money Forwardが家計簿管理におすすめ</title>
+		<link>http://blog.h2o-space.com/2015/01/605/</link>
+		<comments>http://blog.h2o-space.com/2015/01/605/#comments</comments>
+		<pubDate>Sun, 18 Jan 2015 00:51:27 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[ブログ]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=605</guid>
+		<description><![CDATA[<p>Money Forwardのプレミアムサービスに入会して、1年が経過しました（2013年 10月に入会）。 これまで、何度も挫折していた家計簿管理ですが、このサービスのおかげで続けることができています。 ここでは、Mon &#8230; <a href="http://blog.h2o-space.com/2015/01/605/" class="more-link">続きを読む <span class="screen-reader-text">Money Forwardが家計簿管理におすすめ</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/01/605/">Money Forwardが家計簿管理におすすめ</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img src="http://blog.h2o-space.com/wp-content/uploads/2015/01/moneyforward.png" alt="Moeny Forward" width="275" height="80" class="aligncenter size-full wp-image-606" /></p>
+<p>Money Forwardのプレミアムサービスに入会して、1年が経過しました（2013年 10月に入会）。</p>
+<p>これまで、何度も挫折していた家計簿管理ですが、このサービスのおかげで続けることができています。</p>
+<p>ここでは、Money Forwardが続く理由や、続けるポイントを紹介しましょう。<br />
+<span id="more-605"></span></p>
+<h2>自動取得がスゴすぎる</h2>
+<p><img src="http://blog.h2o-space.com/wp-content/uploads/2015/01/2015-01-18_9-45-25-300x149.png" alt="Money Forwardの自動取得" width="300" height="149" class="aligncenter size-medium wp-image-607" /></p>
+<p>クレジットカードや、銀行口座などを Webの会員ページから取得して取り込んでくれます。この機能のおかげで、これまで面倒だった銀行引き落としの入力やクレジット決済のものは、入力しなくて済むようになりました。</p>
+<p>この機能自体は、最近の家計簿サービスだと対応していることも多いのですが、Money Forwardは圧倒的に対応口座が多いです。</p>
+<p>Edyや Suica、Tポイントなども連携ができるので、電子マネーで支払ったものも自動で取得できます（ただし、筆者は電子マネーは連携を切っています。理由は以下）</p>
+<h2>自動振り分けがスゴい</h2>
+<p><img src="http://blog.h2o-space.com/wp-content/uploads/2015/01/2015-01-18_9-46-41-300x131.png" alt="自動振り分けのルール設定" width="300" height="131" class="aligncenter size-medium wp-image-608" /></p>
+<p>自動取得ができたとしても、科目などを改めて振り分けないとならないと、やはり面倒です。しかし、Money Forwardは自動振り分けが非常に優秀で、1回振り分けをすれば記憶され、振込先や引き落とし先などから自動的に判断して、適切な科目に振り分けがされます。</p>
+<p>ただし、電子マネーの場合はさすがに振り分けられず、同期したときには何を買ったか憶えていないということが多かったため、手入力するようにしました。</p>
+<h2>スマホアプリが気軽</h2>
+<p>手入力も手軽です。スマホアプリでサクッと入力できてデータが同期され、またクレジットカードの決済などはプッシュ通知で知らせてくれます。</p>
+<h2>メール通知がやる気を出させる</h2>
+<p><img src="http://blog.h2o-space.com/wp-content/uploads/2015/01/2015-01-18_9-48-04-300x107.png" alt="月次メール" width="300" height="107" class="aligncenter size-medium wp-image-609" /></p>
+<p>毎週1通と、毎月1通、そこまでの成績がメールで送られてきます。<br />
+今週いくつ使ったのか、今月は赤字だったのか黒字だったのかを、メールで知らせてくれるので、すぐに状況が分かって助かります。</p>
+<h2>柔軟な管理</h2>
+<p><img src="http://blog.h2o-space.com/wp-content/uploads/2015/01/2015-01-18_9-49-12-300x59.png" alt="グループ機能" width="300" height="59" class="aligncenter size-medium wp-image-610" /></p>
+<p>家計簿ソフト・サービスによっては、自分の生活とうまく当てはまらないことがあります。</p>
+<p>例えば私の場合、事情があってサイフを2つ持っています。また、自宅に現金が置いてあるため、「現金」と言ったときにこの3種類に分かれます。<br />
+しかし、Money Forwardはこのあたりを自由に口座を作ることができるので「サイフ1」「サイフ2」「タンス預金」などと口座を作って、口座間で現金をやりとりすることもできます。</p>
+<p>さらに、クレジットカードも法人名義のものと個人名義のものがあり、どちらも「楽天カード」であるため、Webのサービスから明細を取得すると、これがごっちゃになります。<br />
+これも、「グループ」というもので集計に含める口座をまとめることができるので、集計ができます。</p>
+<h2>残高調整でざっくり家計簿</h2>
+<p><img src="http://blog.h2o-space.com/wp-content/uploads/2015/01/2015-01-18_9-50-19-300x182.png" alt="残高修正" width="300" height="182" class="aligncenter size-medium wp-image-611" /></p>
+<p>家計簿を一円単位で正確に入力するのは骨が折れます。そこで私は10円単位はざっくり丸めて入力してしまいます。そして、毎月月末に現金残を合わせて、「残高修正」の機能で合わせてしまいます。不明金として処理することができます。</p>
+<p>入力が面倒になるよりも、ざっくりでも集計が見られる方が役立ちます。</p>
+<p>Money Forwardはこのように、目立った機能はないものの、細かいところに気配りされている点が素晴らしいです。これからもお世話になっていこうと思います。</p>
+<ul>
+<li><a href="https://moneyforward.com">Money Forward</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/01/605/">Money Forwardが家計簿管理におすすめ</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/01/605/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>書評：Microsoft Azure導入ガイドブック</title>
+		<link>http://blog.h2o-space.com/2015/01/598/</link>
+		<comments>http://blog.h2o-space.com/2015/01/598/#comments</comments>
+		<pubDate>Tue, 13 Jan 2015 00:48:06 +0000</pubDate>
+		<dc:creator><![CDATA[TANIGUCHI Makoto]]></dc:creator>
+				<category><![CDATA[書評]]></category>
+		<category><![CDATA[Microsoft Azure]]></category>
+
+		<guid isPermaLink="false">http://blog.h2o-space.com/?p=598</guid>
+		<description><![CDATA[<p>Microsoft Azureに慣れたくて、電子書籍専用のこちらを購入。 非常に素直に書かれていて、最初の導入には非常に分かりやすい書籍と言えます。 WordPressや EC-CUBEなどの導入方法なども分かるようにな &#8230; <a href="http://blog.h2o-space.com/2015/01/598/" class="more-link">続きを読む <span class="screen-reader-text">書評：Microsoft Azure導入ガイドブック</span></a></p>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/01/598/">書評：Microsoft Azure導入ガイドブック</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.amazon.co.jp/gp/product/B00P7R54CA/ref=as_li_ss_il?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=B00P7R54CA&#038;linkCode=as2&#038;tag=h2ospacelim09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B00P7R54CA&#038;Format=_SL250_&#038;ID=AsinImage&#038;MarketPlace=JP&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=h2ospacelim09-22" style="display: block; margin: 0 auto;" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=h2ospacelim09-22&#038;l=as2&#038;o=9&#038;a=B00P7R54CA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Microsoft Azureに慣れたくて、電子書籍専用のこちらを購入。</p>
+<p><span id="more-598"></span></p>
+<p>非常に素直に書かれていて、最初の導入には非常に分かりやすい書籍と言えます。<br />
+WordPressや EC-CUBEなどの導入方法なども分かるようになっていて、独自ドメインの設定なども行うことができます。</p>
+<p>さらには、バックアップ、GitHubとの連携、メールの設定なども説明されていて、Windows Azureで Webサイトを開設するという場合には、この1冊で一通りのノウハウが身に付くかと思います。</p>
+<p>Microsoft Azureにはまだまだ多くの機能があるため、これらを理解するためにはさらに別の書籍や、ヘルプなどをみていく必要がありそうです。</p>
+<p>ちなみに、ムームードメインで取得したドメインを Microsoft Azureに割り当てるのに苦労したため、以下にまとめておきました。</p>
+<ul>
+<li>
+<p><a href="http://qiita.com/seltzer/items/074374e49b7effee7cf9">Microsoft Azureで独自ドメイン設定（ムームードメイン） &#8211; Qiita</a></p>
+</li>
+<li>
+<p><a href="http://www.amazon.co.jp/gp/product/B00P7R54CA/ref=as_li_ss_tl?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=B00P7R54CA&#038;linkCode=as2&#038;tag=h2ospacelim09-22">Microsoft Azure導入ガイドブック Mynavi Advanced Library</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=h2ospacelim09-22&#038;l=as2&#038;o=9&#038;a=B00P7R54CA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://blog.h2o-space.com/2015/01/598/">書評：Microsoft Azure導入ガイドブック</a> appeared first on <a rel="nofollow" href="http://blog.h2o-space.com">H2O BLOG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://blog.h2o-space.com/2015/01/598/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
