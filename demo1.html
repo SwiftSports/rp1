@@ -17,11 +17,23 @@
 </head>
 <body>
   <p id="message">テストメッセージ</p>
-
-  <!-- ココ -->
+  <form action="send.php" method="post">
+    <input type="text" id="myname" name="myname" value="">
+  	<input type="submit" value="送信">
+  </form>
+  <!--ココ -->
   <script>
   $('#message').html('生放送デース次回!!!!');
-  $('#message').fadeOut();
+  $('#message').click(function(){
+    $('#message').fadeOut('slow');
+  });
+  </script>
+  <script>
+  $('#myname').blur(function(){
+    if ($('#myname').val() == '') {
+      $('form').append('<p>名前を入力してください。</p>');
+    }
+  });
   </script>
 </body>
 </html>
